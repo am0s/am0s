@@ -4,9 +4,9 @@ May also dabble with frontend development if needed.
 
 Worked as chief software engineer for [eZ systems](https://ez.no), a core developer at [Opera Software](https://opera.com) and
 as senior software developer at [Aplia](https://aplia.no), currently
-working as senior software developer/architect at [Cemit](https://cemit.com).
+working as tech lead/senior software developer at [Cemit](https://cemit.com).
 
-Spends some of my spare time playing video games (currently revisiting Prey and Divinity Original Sin), working on my home servers (ZFS, Proxmox/Xen virtualization and docker containers/kubernetes),
+Spends some of my spare time playing video games (currently working my way through Baldurs Gate 3), working on my home servers (ZFS, Proxmox/Xen virtualization and docker containers/kubernetes),
 or having fun tinkering with Amiga computers 😄.
 
 <p align="center">
